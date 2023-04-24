@@ -1,10 +1,10 @@
-# Hi 👋 I'm Krzysiek!
+# Hi 👋 I'm Krzysiek! 😁
 
 🏠 I live in a small city nearby Wrocław, Poland.
 
 🌱 I’m currently learning Java every single day!
 
-🎯 The first goal is to become a Junior Java Developer.
+🎯 My first goal is to become a Junior Java Developer.
 
 ⚡ Fun fact: I'm addicted to cold showers.
 
